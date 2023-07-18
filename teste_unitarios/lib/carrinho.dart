@@ -23,4 +23,6 @@ class Carrinho {
 
     return valorTotal;
   }   
+  
 }
+
